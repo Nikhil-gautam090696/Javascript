@@ -10,8 +10,11 @@ function Table(num) {
     console.log(`${num} X ${i} = ${num * i}`);
   }
 }
+
 // Table(2);
 
-// Table(4);
+Table(4);
+
+Table(9);
 
 Table(18);
